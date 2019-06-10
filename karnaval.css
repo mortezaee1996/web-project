@@ -549,17 +549,3 @@ li{
     border-radius: 22px;
     padding-left: 5px;
 }
-.in:hover{
-    border:5px solid rgb(190, 196, 196);
-    border-radius: 50px;
-
-}
-.insta:hover{
-    border:5px solid rgb(190, 196, 196);
-    border-radius: 50px;
-
-}
-.tel:hover{
-    border:5px solid rgb(190, 196, 196);
-    border-radius: 150px;
-}
